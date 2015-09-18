@@ -1,0 +1,10 @@
+[package]
+name = "pog_status"
+version = "0.1.0"
+authors = ["igrs <specialweek@gmail.com>"]
+
+[dependencies]
+#hyper = "*"
+csv = "*"
+rustc-serialize = "*"
+#kuchiki = "*"
