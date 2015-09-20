@@ -1,6 +1,6 @@
 # POG Status
 
-POG登録馬の状態や氏名馬の獲得総賞金を表示します。(from [netkeiba](http://www.netkeiba.com))
+POG登録馬の状態や指名馬の獲得総賞金を表示します。(from [netkeiba](http://www.netkeiba.com))
 
 ## 実行方法
 
